@@ -1,10 +1,11 @@
-#include millionaire.h
+#include "millionaire.h"
 
 using namespace std;
 
-int main
+int main(void)
 	{
-		millionare game;
+		millionaire game;
 		game.play();
+		while(1);
 		return 0;
 	}

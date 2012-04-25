@@ -6,6 +6,6 @@ int main(void)
 	{
 		millionaire game;
 		game.play();
-		while(1);
+		cin.get();
 		return 0;
 	}

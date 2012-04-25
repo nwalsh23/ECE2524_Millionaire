@@ -32,6 +32,7 @@ void millionaire::welcome(void)
 		else if (response == "no")
 			{
 				cout << "Maybe next time!" << endl;
+				cin.get();
 				exit(1);
 			}
 		else cout << "You must type yes or no" << endl;

@@ -1,127 +1,126 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 What is the symbol to represent a pipe?
-|
-$
-&
-!
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. |
+B. $
+C. &
+D. !
+A
 Which of the following commands lists the contents of the current directory?
-ls
-pwd
-cd
-mkdir
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. ls
+B. pwd
+C. cd
+D. mkdir
+A
 Which of the following commands prints output of a file to the screen?
-cat
-cd
-pwd
-ls
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. cat
+B. cd
+C. pwd
+D. ls
+A
 Which of the following commands prints the date to the screen of the terminal?
-date
-whatis
-whois
-ls
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. date
+B. whatis
+C. whois
+D. ls
+A
 Which of following commands prints a file to the screen?
-less
-cd
-pwd
-ls
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. less
+B. cd
+C. pwd
+D. ls
+A
 Which of the following commmands can be used to determine how to use another command?
-man
-cat
-pg
-head
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. man
+B. cat
+C. pg
+D. head
+A
 Which of the following commands is not a filter
-man
-cat
-pg
-head
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. man
+B. cat
+C. pg
+D. head
+A
 What is a filter?
-A program which can receive a flow of data from std input, process (or filter) it and send the result ot std output
-Something for a Brita water container
-Program that sensors the content of a file
-A program that strips out all comments from the source code of a program before compiling
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. A program which can receive a flow of data from std input, process (or filter) it and send the result ot std output
+B. Something for a Brita water container
+C. Program that sensors the content of a file
+D. A program that strips out all comments from the source code of a program before compiling
+A
 Which of the following redirect operators would redirect the contents of 'testfile' to std input?
-<
-<<
->>
->
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. <
+B. <<
+C. >>
+D. >
+A
 Which of the following commands is a pattern search command?
-grep
-man
-ls
-wc
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. grep
+B. man
+C. ls
+D. wc
+A
 What is the effect of the command 'Kill $!'?
-Kills the last background job
-Kills the current foreground job
-Kills the job with pid '!'
-Kills the entire system so that it blows up
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. Kills the last background job
+B. Kills the current foreground job
+C. Kills the job with pid '!'
+D. Kills the entire system so that it blows up
+A
 What is the effect of the command 'rm -r *'?
-Deletes all files in the current directory and all of its subdirectories
-Deletes the file named '*'
-Deletes all files in the current directory
-Deletes all subdirectories of the current directory
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. Deletes all files in the current directory and all of its subdirectories
+B. Deletes the file named '*'
+C. Deletes all files in the current directory
+D. Deletes all subdirectories of the current directory
+A
 What does the command 'du' stand for?
-Disk Usage
-Dumb Unix
-Display Unix System
-Display Universal Variables
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. Disk Usage
+B. Dumb Unix
+C. Display Unix System
+D. Display Universal Variables
+A
 Which of the following commands would count the number of characters in a file?
-wc -c
-wc
-wc -l
-wc -w
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. wc -c
+B. wc
+C. wc -l
+D. wc -w
+A
 Which variable stores the prompt that is presented to the user before each command in the terminal?
-PS1
-PROMPT
-GLOBALPROMPT
-PS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. PS1
+B. PROMPT
+C. GLOBALPROMPT
+D. PS
+A
 What is redirection?
-Directing the flow of data to the file or from the file for input or output
-Running a program in reverse
-The Unix equivalent of the undo button
-Taking a 'left turn' in a Unix program
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. Directing the flow of data to the file or from the file for input or output
+B. Running a program in reverse
+C. The Unix equivalent of the undo button
+D. Taking a 'left turn' in a Unix program
+A
 What is the term for the exact path from the root directory?
-Absolute Path
-Relative Path
-Exact Path
-There is no term for this path
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. Absolute Path
+B. Relative Path
+C. Exact Path
+D. There is no term for this path
+A
 What is the term for the path that is relative to the current path?
-Relative Path
-Absolute Path
-Exact Path
-There is no term for this path
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. Relative Path
+B. Absolute Path
+C. Exact Path
+D. There is no term for this path
+A
 Which symbol allows for multiple commands to be ran on a single line?
-;
-1
-!
-:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. ;
+B. 1
+C. !
+D. :
+A
 Which common operating system is based off of Unix?
-Mac OSX
-Windows 7
-Windows 95
-Embedded Windows
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. Mac OSX
+B. Windows 7
+C. Windows 95
+D. Embedded Windows
+A
 Which of the following commands creates a copy of a file?
-cp
-hc
-wc
-rm
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. cp
+B. hc
+C. wc
+D. rm
+A

@@ -7,10 +7,12 @@ using namespace std;
 class millionaire
 {
 	public:
+		int tier;
 		int round;
 		int score;
-		int chances;
-		bool win;
+		int life1;
+		int life2;
+		bool lifeline;
 	
 		millionaire();
 
@@ -19,7 +21,7 @@ class millionaire
 		void question_read(void);
 		bool check_answer(string answer, string response);
 		void adjust_score(void);
-		void check_chances(void);
 		void final_screen(void);
+		void life_line(string A, string B, string C, string D, string answer);
 	
 };

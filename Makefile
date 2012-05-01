@@ -1,12 +1,12 @@
 CXX := g++
 CXX_FLAGS := -Wall -g -std=c++0x
-SRCS := millionaire.cpp
+SRCS := millionaire.cpp main.cpp
 OBJS := $(SRCS:.cpp=.o)
 
 all: main
 
-main: main.o millionaire.o
-	${CXX} $(CXX_FLAGS) -o $@ main.o ${OBJS}
+main: ${OBJS}
+	${CXX} $(CXX_FLAGS) -o $@ ${OBJS}
 
 %.o : %.cpp
 	$(CXX) $(CXX_FLAGS) -MD -o $@ -c $<

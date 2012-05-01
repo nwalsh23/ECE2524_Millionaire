@@ -6,7 +6,7 @@ OBJS := $(SRCS:.cpp=.o)
 all: main
 
 main: main.o millionaire
-	${CXX} $(CXX_FLAGS) -o $@ main.o
+	${CXX} $(CXX_FLAGS) -o $@ ${OBJS}
 
 millionaire: millionaire.o
 	${CXX} $(CXX_FLAGS) -o $@ millionaire.o

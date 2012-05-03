@@ -1,0 +1,60 @@
+1. A process is the basic unit of __?
+a. a program
+b. execution
+c. program
+d. work
+B
+2. What are the two principal ways of IPC
+a. message passing and forking
+b. shared memory and message passing
+c. shared memory and forking
+d. shared memory and kill
+B
+3. What command is used by the parent to wait for a child to terminate?
+a. fork
+b. exit
+c. wait
+d. kill
+C
+4. What command is used to return a status to the parent?
+a. fork
+b. exit
+c. wait
+d. kill
+B
+5. What command sends a signal to a process?
+a. fork
+b. exit
+c. wait
+d. kill
+D
+6. What command is used to create new Unix Process?
+a. fork
+b. exit
+c. wait
+d. kill
+A
+7. GNU stands for 
+a. Graphical New Universe
+b. Graphical Not Unix
+c. GNU
+d. GNU not UNIX
+D
+8. What does KISS stand for when talking about UNIX?
+a. Keep Information System Settings
+b. Keep it simple stupid
+c. Keep information super safe
+d. Know information supporting superuser
+B.
+9. The Rule of Clarity means what?
+a. Tomorrow is always the clearist
+b. Clarity is better than cleverness
+c. Clear vision is always best
+d. Simple is best
+B.
+10. Who was one of the creators of UNIX?
+a. Ken Thompson
+b. Bill Gates
+c. Nick Walsh
+d. Steve Jobs
+A
